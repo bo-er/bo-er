@@ -1,2 +1,1 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bo-er&&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bo-er&layout=compact)
+Learning, working, aging. Current interest is learning database systems.
